@@ -48,4 +48,4 @@ https://github.com/njorogebrian
 
 * MIT License
 
-Copyright (c) 2019 
+Copyright (c) 2019 brian marcel njoroge
