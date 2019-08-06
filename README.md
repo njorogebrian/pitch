@@ -41,11 +41,11 @@ This is an app that allows users to create,submit,vote pitches based on categori
 * flask
 
 # Support and Contacts
-https://github.com/MarkAgimba
+https://github.com/njorogebrian
 
 
 # License
 
 * MIT License
 
-Copyright (c) 2019 Mark Mugwere Agimba
+Copyright (c) 2019 
