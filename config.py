@@ -14,7 +14,7 @@ class Config:
     MAIL_PORT = 587
     MAIL_USE_TLS = True
     MAIL_USERNAME =("MAIL_USERNAME") 
-    MAIL_PASSWORD =("MAIL_PASSWORD")
+    MAIL_PASSWORD = os.envirot("MAIL_PASSWORD")
 
 class ProdConfig(Config):
     '''
