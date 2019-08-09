@@ -1,6 +1,6 @@
 # APP NAME
 
-## The M.M.A Pitcher
+## Branjo's Pitch
 
 # AUTHOR
 # brian njoroge
@@ -23,7 +23,7 @@ This is an app that allows users to create,submit,vote pitches based on categori
 * Python3.6
 
 ## Installation steps 
-* $ git clone https://github.com/MarkAgimba/IP-Pitch.git
+* $ git clone 
 * $ cd IP-Pitch
 * $ source virtual/bin/activate
 * Inside the manage.py module change the config_name parameter from 'production' to 'development' ie app = create_app('production') should be app = create_app('development')
